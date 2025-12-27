@@ -40,21 +40,16 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto construido em Spring-Boot 3 com um banco de dados em memória (H2), usando o Framework AngularJS para para digitalização de negócio familiar referente a venda de vinhos, abrangendo desde a vitrine virtual para clientes até o painel administrativo dos produtos",
+      "name": "Projeto Viana Vinhos Finos",
       "url": "https://github.com/Fabriciobr5975/Repositorio-Projeto-Intregador-4-Semestre-Senac",
       "github": true
     },
     {
-      "name": "Projeto construido em NodeJS com MySQL, usando o Framework ReactJS para a construção de um site com crud simples baseado em uma locadora de automóveis, com o intuito de gerenciar os clientes, os veículos e as locações dos veículos",
+      "name": "Projeto Locadora Elite Wheelz",
       "url": "https://github.com/Fabriciobr5975/Projeto-Elite-Wheelz",
       "github": true
     }
   ],
   "professionalExperience": [
-    {
-      "name": "",
-      "period": "",
-      "description": ""
-    }
   ]
 }
