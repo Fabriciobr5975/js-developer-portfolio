@@ -13,7 +13,7 @@ header::after {
   right: 1rem;
   width: 2rem;
   height: 2rem;
-  background-image: ulr("../img/icons/header.svg");
+  background-image: url("../img/icons/header.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -49,25 +49,25 @@ header::after {
   display: inline-block;
   width: 1rem;
   height: 1rem;
-  background-image: ulr("../img/icons/email.svg");
+  background-image: url("../img/icons/email.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .information .job::before {
-  background-image: ulr("../img/icons/job.svg");
+  background-image: url("../img/icons/job.svg");
 }
 
 .information .location::before {
-  background-image: ulr("../img/icons/location.svg");
+  background-image: url("../img/icons/location.svg");
 }
 
 .information .email::before {
-  background-image: ulr("../img/icons/email.svg");
+  background-image: url("../img/icons/email.svg");
 }
 
 .information .phone::before {
-  background-image: ulr("../img/icons/phone.svg");
+  background-image: url("../img/icons/phone.svg");
 }
 
 @media only screen and (min-width: 768px) {
