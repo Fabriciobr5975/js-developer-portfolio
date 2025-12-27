@@ -1,0 +1,30 @@
+.experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.experience li {
+    margin-bottom: 1rem;
+}
+
+.experience li .period {
+  display: flex;
+  align-items: center;
+}
+
+.experience li .period::before {
+  content: "";
+  display: inline-block;
+  width: 1rem;
+  height: 1em;
+  background-image: url("/assets/img/icons/calendar.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-right: 0.5rem;
+}
