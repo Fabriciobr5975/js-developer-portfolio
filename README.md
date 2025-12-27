@@ -1,4 +1,4 @@
-# Projeto Portfólio pessoa com HTML5, CSS3 e JavaScript
+# Projeto Portfólio com HTML5, CSS3 e JavaScript
 Repositório contendo um modelo de portfólio proposto de Digital Innovation One (DIO), para a conclusão do curso "___Formação JavaScript Developer___"
 
 ## Ferramentas Utilizadas
